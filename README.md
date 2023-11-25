@@ -23,6 +23,8 @@ Yes, you can still use this software. It just won't recieve any updates now.
 > Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-colab-notebook-link)
+
 
 ## Installation
 
